@@ -1,5 +1,5 @@
 # 💫 Hi I am Rakshitha
-I'm currently learning AI.<br>I'm currently a Student at Maharaja institute of technology Thandavapura.<br>All of my projects are available on GitHub.<br>Ask me about Programming.<br>Reach out to me at rakshitharaj431@gmail.com<br>Frontend and AI enthusiastic<br>
+I'm currently learning AI.<br>I'm currently a Student at Maharaja institute of technology Thandavapura.<br>All of my projects are available on GitHub.<br>Ask me about Programming.<br>Reach out to me at rakshitharaj431@gmail.com<br>Full Stack and AI enthusiastic<br>
 
 
 ## 🌐 Socials:
